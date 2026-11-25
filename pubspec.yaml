@@ -1,0 +1,7 @@
+name: csv_profiler
+description: Streaming CSV validation and column profiling with a dependency-free CLI.
+version: 0.1.0
+environment:
+  sdk: '>=3.5.0 <4.0.0'
+dev_dependencies:
+  test: ^1.25.8

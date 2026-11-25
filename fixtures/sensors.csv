@@ -1,0 +1,6 @@
+station,reading,active,note
+west,12.5,true,"calibration, first pass"
+east,,false,"operator said ""recheck"""
+north,14.25,true,"two-line
+inspection note"
+south,15,true,
